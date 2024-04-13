@@ -31,19 +31,17 @@ header img {
     height: auto;
 }
 
-main {
-    background-color: lightgoldenrodyellow;
-}
-
 .ingridients {
     text-align: center;
     padding: 0px 15px 0px 15px;
+    background-color: lightgoldenrodyellow;
 }
 
 .instructions {
 text-align: center;
 padding-left: 20px;
 padding-right: 20px;
+background-color: lightcyan;
 }
 
 ul, ol {
